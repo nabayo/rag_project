@@ -1,0 +1,6 @@
+easyocr
+langchain_text_splitters
+chromadb
+sentence_transformers
+ollama
+streamlit
